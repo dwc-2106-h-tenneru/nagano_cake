@@ -1,0 +1,2 @@
+module MasayanHelper
+end
