@@ -1,0 +1,2 @@
+class MasayanController < ApplicationController
+end
