@@ -1,3 +1,3 @@
 class Test1Controller < ApplicationController
-  hhfk
+  ttttttttt
 end
