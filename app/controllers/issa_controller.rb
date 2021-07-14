@@ -1,0 +1,2 @@
+class IssaController < ApplicationController
+end
