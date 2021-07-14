@@ -1,0 +1,2 @@
+class KanoController < ApplicationController
+end
