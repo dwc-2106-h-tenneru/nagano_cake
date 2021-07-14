@@ -1,0 +1,2 @@
+class NakamotoController < ApplicationController
+end
